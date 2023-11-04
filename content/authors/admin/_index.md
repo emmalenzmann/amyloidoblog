@@ -1,17 +1,9 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio:
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: BA in Geoscience
+    year: May 2023
 first_name: Shiung Wu
 highlight_name: true
 interests:
