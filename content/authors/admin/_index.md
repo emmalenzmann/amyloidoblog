@@ -4,18 +4,17 @@ education:
   courses:
   - course: BA in Geoscience
     year: May 2023
-first_name: Shiung Wu
+first_name: Emma
 highlight_name: true
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-last_name: Chien
-name_pronunciation: Chien Shiung Wu
+- biochemistry and genetics
+- protein folding diseases
+- chaperone proteins
+last_name: Lenz-Mann
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-role: Professor of Artificial Intelligence
+- name: National Institutes of Health
+  url: https://www.nih.gov/
+role: postbac IRTA
 skills:
 - items:
   - description: ""
