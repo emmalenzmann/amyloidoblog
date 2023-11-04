@@ -5,7 +5,7 @@ education:
   - course: BA in Geoscience
     year: May 2023
 first_name: Emma
-highlight_name: true
+last_name: Lenz-Mann
 interests:
 - biochemistry and genetics
 - protein folding diseases
@@ -70,15 +70,13 @@ social:
   link: https://github.com/gcushen
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/emmalenzmann
 - icon: cv
   icon_pack: ai
   link: uploads/resume.pdf
 status:
   icon: ☕️
 superuser: true
-title: 吳健雄
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-{style="text-align: justify;"}
+Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks. {style="text-align: justify;"}
