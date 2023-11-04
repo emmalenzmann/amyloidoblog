@@ -70,7 +70,7 @@ social:
   link: https://github.com/gcushen
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/emmalenzmann
+  link: https://www.linkedin.com/in/emmalenzmann/
 - icon: cv
   icon_pack: ai
   link: uploads/resume.pdf
