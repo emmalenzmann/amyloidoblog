@@ -17,10 +17,10 @@ organizations:
 role: postbac IRTA
 skills:
 - items:
-  - description: ""
-    icon: python
+  - description: "I have a year of experience using R"
+    icon: r-project
     icon_pack: fab
-    name: Python
+    name: R
     percent: 80
   - description: ""
     icon: chart-line
