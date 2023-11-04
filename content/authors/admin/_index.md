@@ -58,16 +58,9 @@ social:
   link: /#contact
 - display:
     header: true
-  icon: twitter
-  icon_pack: fab
-  label: Follow me on Twitter
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/emmalenzmann
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/emmalenzmann/
@@ -77,6 +70,7 @@ social:
 status:
   icon: ☕️
 superuser: true
+title: Amyloidoblog
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks. {style="text-align: justify;"}
+Hi there! I'm Emma, a postbac researcher at NIH (I, of course, do not speak on their behalf). My research surrounds a chaperone protein and how it deals with amyloids. Amyloids are misfolded proteins that are implicated in various diseases like Alzheimer's, Parkinson's, and Huntington's. This blog will be used to document my journey and also to show how I learn and think about the field of amyloid diseases. {style="text-align: justify;"}
